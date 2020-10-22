@@ -51,8 +51,8 @@
   blog_url:
 
 - name: John
-  github_username:
-  blog_url:
+  github_username: JohnGithubKings
+  blog_url: https://brave-euler-351e1d.netlify.app/
 
 - name: Daniel
   github_username:
