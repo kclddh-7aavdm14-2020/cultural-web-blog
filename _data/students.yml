@@ -87,8 +87,8 @@
   blog_url:
 
 - name: Jane
-  github_username:
-  blog_url:
+  github_username: Jane
+  blog_url:https://luojiamyblog.netlify.app
 
 - name: John
   github_username:
