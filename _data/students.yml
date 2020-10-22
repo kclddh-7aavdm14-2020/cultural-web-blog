@@ -79,8 +79,8 @@
   blog_url:
 
 - name: Genie
-  github_username:genieinabottle25
-  blog_url:https://genieinabottleblog.netlify.app
+  github_username: genieinabottle25
+  blog_url: https://genieinabottleblog.netlify.app
 
 - name: Zhi
   github_username:
