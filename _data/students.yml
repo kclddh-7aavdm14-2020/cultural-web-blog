@@ -122,9 +122,9 @@
   github_username:
   blog_url:
 
-- name: John
-  github_username:
-  blog_url:
+- name: Zhong
+  github_username: 
+  blog_url: https://zmjkblog.netlify.app
 
 - name: Mia
   github_username:
