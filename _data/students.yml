@@ -47,8 +47,8 @@
   blog_url:
 
 - name: Eugenie
-  github_username:
-  blog_url:
+  github_username: eugenierqs
+  blog_url: https://eroques-jekyll.netlify.app
 
 - name: John
   github_username: JohnGithubKings
@@ -63,8 +63,8 @@
   blog_url: https://vigilant-goldberg-5da7bc.netlify.app/
 
 - name: Chen
-  github_username:
-  blog_url:
+  github_username: chendinggit
+  blog_url: https://chendingblog.netlify.app
 
 - name: Marta
   github_username: Sblbl
@@ -185,3 +185,7 @@
 - name: Lujingrui Guan
   github_username: gljr980306
   blog_url: https://musing-brahmagupta-466cb2.netlify.app
+
+- name: Yuxin
+  github_username: YeYuxin1
+  blog_url: https://yuxin.netlify.app/
