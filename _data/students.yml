@@ -119,8 +119,9 @@
   blog_url:
 
 - name: Emily
-  github_username:
-  blog_url:
+  github_username: jinziyan33
+  blog_url: https://ziyanjin-emily.netlify.app
+
 
 - name: Zhong
   github_username: k20019535
