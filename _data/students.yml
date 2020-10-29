@@ -47,8 +47,8 @@
   blog_url:
 
 - name: Eugenie
-  github_username:
-  blog_url:
+  github_username: eugenierqs
+  blog_url: https://eroques-jekyll.netlify.app
 
 - name: John
   github_username: JohnGithubKings
