@@ -11,16 +11,16 @@
   blog_url:
 
 - name: Hao
-  github_username:
-  blog_url:
+  github_username: claingong
+  blog_url: https://hao-blog.netlify.app/
 
 - name: Grace
   github_username:
   blog_url:
 
 - name: Gemma
-  github_username:
-  blog_url:
+  github_username: Gemma-L
+  blog_url: https://gemmalimyblog.netlify.app/
 
 - name: Jintian
   github_username:
@@ -35,8 +35,8 @@
   blog_url:
 
 - name: Yuxin
-  github_username:
-  blog_url:
+  github_username: YeYuxin1
+  blog_url: https://yuxin.netlify.app/
 
 - name: Qian
   github_username:
@@ -59,28 +59,28 @@
   blog_url: https://romantic-jennings-976b84.netlify.app/
 
 - name: Hannah
-  github_username:
-  blog_url:
+  github_username: HanDib
+  blog_url: https://vigilant-goldberg-5da7bc.netlify.app/
 
 - name: Chen
   github_username:
   blog_url:
 
 - name: Marta
-  github_username:
-  blog_url:
+  github_username: Sblbl
+  blog_url: https://firstjekyllsblbl.netlify.app/
 
 - name: Jean
   github_username:
   blog_url:
 
 - name: Hazel
-  github_username:
-  blog_url:
+  github_username: hkeyu98
+  blog_url: https://hazel-blog.netlify.app
 
 - name: Genie
-  github_username:genieinabottle25
-  blog_url:https://genieinabottleblog.netlify.app
+  github_username: genieinabottle25
+  blog_url: https://genieinabottleblog.netlify.app
 
 - name: Zhi
   github_username:
@@ -95,8 +95,8 @@
   blog_url:
 
 - name: Kalie
-  github_username:
-  blog_url:
+  github_username: BatQi
+  blog_url: https://w4-learning.netlify.app/
 
 - name: Lexi
   github_username:
@@ -122,9 +122,9 @@
   github_username:
   blog_url:
 
-- name: John
-  github_username:
-  blog_url:
+- name: Zhong
+  github_username: k20019535
+  blog_url: https://zmjkblog.netlify.app
 
 - name: Mia
   github_username:
@@ -139,11 +139,11 @@
   blog_url:
 
 - name: Faye
-  github_username:
-  blog_url:
+  github_username: faye1011
+  blog_url: https://fayeschublog.netlify.app/
 
 - name: Lexi
-  github_username:
+  github_username: 
   blog_url:
 
 - name: Shelly
@@ -155,8 +155,8 @@
   blog_url:
 
 - name: Qin
-  github_username:
-  blog_url:
+  github_username: QinYan-bot
+  blog_url: https://qinyan-blog.netlify.app
 
 - name: Ping
   github_username:
@@ -165,3 +165,23 @@
 - name: Yanmin
   github_username:
   blog_url:
+
+- name: Lu
+  github_username: Mia_MAO
+  blog_url: https://miatest.netlify.app
+
+- name: zhou ping
+  github_username: rachelzp
+  blog_url: https://rachelzpweek4hw.netlify.app
+
+- name: Xiaoqing Z
+  github_username: XiaoqingIrisZhu
+  blog_url: https://irismyblog.netlify.app
+
+- name: Qinyun Han
+  github_username: Aprilscc
+  blog_url: https://aprilherb.netlify.app
+
+- name: Lujingrui Guan
+  github_username: gljr980306
+  blog_url: https://musing-brahmagupta-466cb2.netlify.app
