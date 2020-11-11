@@ -1,0 +1,13 @@
+---
+layout: page
+title: About
+---
+
+{% for artists in site.data.artists" %} 
+
+    <p>
+        <h1>{{ artists.EnglishName }}({{ artists.ChineseName }})<br /></h1>
+        {{ artists.Nationality }},{{ artists.Gender}},{{ artists.BirthYear }}—{{ artists.DeathYear }}
+    </p>
+    
+{% endfor %}
