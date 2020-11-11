@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: artists
 ---
 
 {% for artists in site.data.artists" %} 
@@ -8,6 +8,10 @@ title: About
     <p>
         <h1>{{ artists.EnglishName }}({{ artists.ChineseName }})<br /></h1>
         {{ artists.Nationality }},{{ artists.Gender}},{{ artists.BirthYear }}—{{ artists.DeathYear }}
+        <img src="media/chinese-art-kaggle/china-artworks/{{ artists.EnglishName | replace:' ','_'}}_{{artists.ChineseName}}/{{ artists.EnglishName | replace:' ','_'}}_01.jpg" >
+        <img src="media/chinese-art-kaggle/china-artworks/{{ artists.EnglishName | replace:' ','_'}}_{{artists.ChineseName}}/{{ artists.EnglishName | replace:' ','_'}}_02.jpg" >
+        <img src="media/chinese-art-kaggle/china-artworks/{{ artists.EnglishName | replace:' ','_'}}_{{artists.ChineseName}}/{{ artists.EnglishName | replace:' ','_'}}_03.jpg" >
+
     </p>
     
 {% endfor %}
