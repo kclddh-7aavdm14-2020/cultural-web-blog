@@ -1,0 +1,16 @@
+---
+layout: page
+title: Art gallery
+---
+
+{% for art in site.artworks %}
+    <h2>{{ art.artist }}: {{ art.title}} ({{ art.year }})</h2>
+    <img src="{{ art.image }}" alt="{{ art.artist }}: {{ art.title}}">
+{% endfor %}
+
+{% for art in site.artworks %}
+	<a href="{{ art.url }}">
+        <h2>{{ art.artist }}: {{ art.title}} ({{ art.year }})</h2>
+        <img src="{{ art.image }}" alt="{{ art.artist }}: {{ art.title}}">
+    </a>
+{% endfor %}
