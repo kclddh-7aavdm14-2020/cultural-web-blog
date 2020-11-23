@@ -14,3 +14,15 @@ title: artists
     </p>
     
 {% endfor %}
+
+{% for art in site.artworks %}
+    <a href="{{ art.url }}">
+    <h2>{{ art.artist }}: {{ art.title}} ({{ art.year }})</h2>
+    <img src="{{ art.image }}" alt="{{ art.artist }}: {{ art.title}}">
+    <p>Owned by: {{ art.owned_by }}</p>
+    </a>
+
+    {% if art.permanent_url %}
+        <a href="{{ art.permanent_url }}">Homepage</a>
+    {% endif %}
+{% endfor %}
