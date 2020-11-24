@@ -1,10 +1,6 @@
-- name: Daniel N
+- name: Daniel Nemenyi
   github_username: danielnemenyi
-  blog_url: foo
-
-- name: Zora
-  github_username: test
-  blog_url: test
+  blog_url: https://daniel.kcl.ac.uk
 
 - name: Silvia
   github_username: Silvia-Fabris
