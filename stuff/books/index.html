@@ -1,0 +1,11 @@
+---
+layout: page
+title: My favourite books
+---
+
+{% for student in site.data.students %}
+
+<p><a href="{{ student.blog_url }}">{{ student.name }}</a></p>
+
+{% endfor %}
+
